@@ -6,7 +6,7 @@ Desenvolvimento de Software | Programação | Tecnologia
 
 <p align="left">
   <a href="https://github.com/GuilhermeOrochi">
-    <img src="https://img.shields.io/badge/GitHub-GuilhermeOrochi-00FF9C?style=for-the-badge&logo=github&logoColor=black"/>
+    <img src="https://img.shields.io/badge/GitHub-GuilhermeOrochi-006400?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
 </p>
 
@@ -42,24 +42,21 @@ Tenho interesse em explorar diferentes tecnologias, desenvolver minhas habilidad
 ## 🎮 Meu Mini Game
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MEU_MINI_GAME-161B22?style=for-the-badge&labelColor=161B22&color=00FF9C"/>
+  <img src="https://img.shields.io/badge/MEU_MINI_GAME-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/>
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/NEON_MEMORY-00F5FF?style=for-the-badge&labelColor=161B22&color=00F5FF"/>
+  <img src="https://img.shields.io/badge/NEON_MEMORY-FFD700?style=for-the-badge&labelColor=FFD700&color=FFD700"/>
 </p>
 
 <p align="left">
-  <strong>Um desafio de memória com temática cyberpunk.</strong>
-</p>
-
-<p align="left">
+  Um desafio de memória com temática cyberpunk.
   Encontre os pares, complete o tabuleiro e tente bater seu recorde!
 </p>
 
 <p align="left">
   <a href="https://GuilhermeOrochi.github.io/neon-memory/">
-    <img src="https://img.shields.io/badge/▶_JOGAR_NEON_MEMORY-00F5FF?style=for-the-badge&logoColor=161B22&labelColor=00F5FF"/>
+    <img src="https://img.shields.io/badge/▶_JOGAR_NEON_MEMORY-FFD700?style=for-the-badge&logoColor=black&labelColor=FFD700"/>
   </a>
 </p>
 
@@ -67,20 +64,4 @@ Tenho interesse em explorar diferentes tecnologias, desenvolver minhas habilidad
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeOrochi&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true"/>
-</p>
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeOrochi&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
----
-
-## 📈 Atividade no GitHub
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeOrochi&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" width="100%"/>
-
----
-
-## 🌐 Contato
+<p align
