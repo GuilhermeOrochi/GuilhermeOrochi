@@ -1,4 +1,3 @@
-
 # Olá! Eu sou Guilherme Hiroshi 👋
 
 ### 💻 Estudante de Engenharia de Software
@@ -42,22 +41,25 @@ Tenho interesse em explorar diferentes tecnologias, desenvolver minhas habilidad
 
 ## 🎮 Meu Mini Game
 
-<h2 align="left">
-  <font color="#00F5FF">⚡ NEON MEMORY</font>
-</h2>
+<p align="left">
+  <img src="https://img.shields.io/badge/MEU_MINI_GAME-161B22?style=for-the-badge&labelColor=161B22&color=00FF9C"/>
+</p>
 
 <p align="left">
-  <strong>
-    <font color="#FFFFFF">
-      Um desafio de memória com temática cyberpunk.
-      Encontre os pares, complete o tabuleiro e tente bater seu recorde!
-    </font>
-  </strong>
+  <img src="https://img.shields.io/badge/NEON_MEMORY-00F5FF?style=for-the-badge&labelColor=161B22&color=00F5FF"/>
+</p>
+
+<p align="left">
+  <strong>Um desafio de memória com temática cyberpunk.</strong>
+</p>
+
+<p align="left">
+  Encontre os pares, complete o tabuleiro e tente bater seu recorde!
 </p>
 
 <p align="left">
   <a href="https://GuilhermeOrochi.github.io/neon-memory/">
-    <img src="https://img.shields.io/badge/▶%20JOGAR%20NEON%20MEMORY-00F5FF?style=for-the-badge&logoColor=black&labelColor=00F5FF"/>
+    <img src="https://img.shields.io/badge/▶_JOGAR_NEON_MEMORY-00F5FF?style=for-the-badge&logoColor=161B22&labelColor=00F5FF"/>
   </a>
 </p>
 
@@ -82,18 +84,3 @@ Tenho interesse em explorar diferentes tecnologias, desenvolver minhas habilidad
 ---
 
 ## 🌐 Contato
-
-<p align="left">
-  <a href="https://github.com/GuilhermeOrochi">
-    <img src="https://img.shields.io/badge/GitHub-00FF9C?style=for-the-badge&logo=github&logoColor=black"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-  </a>
-</p>
-
----
-
-### ⚡ Transformando conhecimento em código.
