@@ -1,11 +1,9 @@
 
-<h1 align="left">Olá! Eu sou Guilherme Hiroshi 👋</h1>
+# Olá! Eu sou Guilherme Hiroshi 👋
 
-<h3 align="left">💻 Estudante de Engenharia de Software</h3>
+### 💻 Estudante de Engenharia de Software
 
-<p align="left">
-  Desenvolvimento de Software | Programação | Tecnologia
-</p>
+Desenvolvimento de Software | Programação | Tecnologia
 
 <p align="left">
   <a href="https://github.com/GuilhermeOrochi">
@@ -44,16 +42,22 @@ Tenho interesse em explorar diferentes tecnologias, desenvolver minhas habilidad
 
 ## 🎮 Meu Mini Game
 
-### ⚡ NEON MEMORY
+<h2 align="left">
+  <font color="#00F5FF">⚡ NEON MEMORY</font>
+</h2>
 
 <p align="left">
-  Um desafio de memória com temática cyberpunk.
-  Encontre os pares, complete o tabuleiro e tente bater seu recorde!
+  <strong>
+    <font color="#FFFFFF">
+      Um desafio de memória com temática cyberpunk.
+      Encontre os pares, complete o tabuleiro e tente bater seu recorde!
+    </font>
+  </strong>
 </p>
 
 <p align="left">
   <a href="https://GuilhermeOrochi.github.io/neon-memory/">
-    <img src="https://img.shields.io/badge/▶_JOGAR_NEON_MEMORY-00F5FF?style=for-the-badge&logoColor=black"/>
+    <img src="https://img.shields.io/badge/▶%20JOGAR%20NEON%20MEMORY-00F5FF?style=for-the-badge&logoColor=black&labelColor=00F5FF"/>
   </a>
 </p>
 
@@ -85,6 +89,8 @@ Tenho interesse em explorar diferentes tecnologias, desenvolver minhas habilidad
   </a>
   <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
   </a>
 </p>
 
