@@ -60,8 +60,3 @@ Tenho interesse em explorar diferentes tecnologias, desenvolver minhas habilidad
   </a>
 </p>
 
----
-
-## 📊 Estatísticas do GitHub
-
-<p align
