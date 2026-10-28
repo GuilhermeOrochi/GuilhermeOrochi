@@ -42,6 +42,23 @@ Tenho interesse em explorar diferentes tecnologias, desenvolver minhas habilidad
 
 ---
 
+## 🎮 Meu Mini Game
+
+### ⚡ NEON MEMORY
+
+<p align="left">
+  Um desafio de memória com temática cyberpunk.
+  Encontre os pares, complete o tabuleiro e tente bater seu recorde!
+</p>
+
+<p align="left">
+  <a href="https://GuilhermeOrochi.github.io/neon-memory/">
+    <img src="https://img.shields.io/badge/▶_JOGAR_NEON_MEMORY-00F5FF?style=for-the-badge&logoColor=black"/>
+  </a>
+</p>
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
